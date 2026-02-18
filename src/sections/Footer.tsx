@@ -1,4 +1,4 @@
-import { Send, Instagram, Youtube, Twitter } from 'lucide-react';
+import { Telegram } from 'lucide-react';
 
 const socialLinks = [
   { 
